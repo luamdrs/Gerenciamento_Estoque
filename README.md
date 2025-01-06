@@ -14,4 +14,4 @@ Segue o passo a passo do código:
 
 
 
-_Este projeto foi totalmente desenvolvido em Python._
+_Projeto Simples desenvolvido totalmente em Python e realizado apenas para fins de estudos e consultas futuras._
