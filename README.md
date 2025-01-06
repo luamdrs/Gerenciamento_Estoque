@@ -12,6 +12,8 @@ Segue o passo a passo do código:
 * Calcular Valor Total: Calcula o valor total de todos os itens em estoque.
 * Sair: Finaliza o programa.
 
+#
 
+_Este projeto foi desenvolvido com o objetivo de praticar e fixar conceitos em Python._
 
-_Projeto Simples desenvolvido totalmente em Python e realizado apenas para fins de estudos e consultas futuras._
+> Sinta-se à vontade para clonar o repositório e utilizá-lo para fins de aprendizado. 🚀💫
